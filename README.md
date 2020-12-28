@@ -7,7 +7,7 @@ I am especially interested in everything NLP and in Rust as a language for writi
 Some of my projects:
 
 - [NNSplit](https://bminixhofer.github.io/nnsplit/). A library implementing a general framework for semantic text segmentation.
-- [GerPT2](https://github.com/bminixhofer/gerpt2). A small German GPT2 model. I also trained a [large version](https://github.com/bminixhofer/gerpt2-large).
+- [GerPT2](https://github.com/bminixhofer/gerpt2). A small German GPT2 model. I also trained a [large version](https://huggingface.co/benjamin/gerpt2-large).
 - [tractjs](https://github.com/bminixhofer/tracjts). A library for running ONNX and TensorFlow models client-side in the browser. Built on the awesome [tract](https://github.com/sonos/tract) library and accessible from Javascript.
 
 I've [also](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/125436) been [active](https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard) on Kaggle some time ago.
