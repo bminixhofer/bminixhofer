@@ -8,7 +8,8 @@ Some of my projects:
 
 - [NNSplit](https://bminixhofer.github.io/nnsplit/). A library implementing a general framework for semantic text segmentation.
 - [GerPT2](https://github.com/bminixhofer/gerpt2). A small German GPT2 model. I also trained a [large version](https://huggingface.co/benjamin/gerpt2-large).
-- [tractjs](https://github.com/bminixhofer/tracjts). A library for running ONNX and TensorFlow models client-side in the browser. Built on the awesome [tract](https://github.com/sonos/tract) library and accessible from Javascript.
+- [tractjs](https://github.com/bminixhofer/tractjs). A library for running ONNX and TensorFlow models client-side in the browser. Built on the awesome [tract](https://github.com/sonos/tract) library and accessible from Javascript.
+- [NLPRule](https://github.com/bminixhofer/nlprule). A library for fast rule-based grammatical error correction through porting thousands of rules from LanguageTool. Made in Rust with bindings for Python.
 
 I've [also](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/125436) been [active](https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard) on Kaggle some time ago.
 
