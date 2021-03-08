@@ -6,7 +6,7 @@ I am especially interested in everything NLP and in Rust as a language for writi
 
 Some of my projects:
 
-- [nlprule](https://github.com/bminixhofer/nlprule). A library for fast rule-based grammatical error correction through porting thousands of rules from LanguageTool. Made in Rust with bindings for Python.
+- [nlprule](https://github.com/bminixhofer/nlprule). A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
 - [NNSplit](https://bminixhofer.github.io/nnsplit/). A library implementing a general framework for semantic text segmentation.
 - [GerPT2](https://github.com/bminixhofer/gerpt2). A small German GPT2 model. I also trained a [large version](https://huggingface.co/benjamin/gerpt2-large).
 - [tractjs](https://github.com/bminixhofer/tractjs). A library for running ONNX and TensorFlow models client-side in the browser. Built on the awesome [tract](https://github.com/sonos/tract) library and accessible from Javascript.
