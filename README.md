@@ -12,6 +12,6 @@ Some of my projects:
 - [GerPT2](https://github.com/bminixhofer/gerpt2). A small German GPT2 model. I also trained a [large version](https://huggingface.co/benjamin/gerpt2-large).
 - [tractjs](https://github.com/bminixhofer/tractjs). A library for running ONNX and TensorFlow models client-side in the browser. Built on the awesome [tract](https://github.com/sonos/tract) library and accessible from Javascript.
 
-I've [also](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/125436) been [active](https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard) on Kaggle some time ago.
+I've [also](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/125436) [been](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/leaderboard) [active](https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard) on Kaggle some time ago.
 
 Feel free to write me an email at bminixhofer at gmail dot com if you'd like to chat about any of the above (or anything else!).
