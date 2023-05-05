@@ -1,6 +1,6 @@
 ### Hi, I'm Benjamin! 👋
 
-I'm currently interning @cohere-ai. Previously, I studied Artificial Intelligence at [JKU Linz](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/). I also [worked on simplifying access to state-of-the-art Deep Learning](https://h2o.ai/platform/h2o-hydrogen-torch/) as Data Science Intern at H2O.ai and [worked on Transformers](https://aclanthology.org/2021.findings-acl.26/) as ML Research Intern at Huawei.
+I'm currently interning at [Cohere](https://cohere.com/). Previously, I studied Artificial Intelligence at [JKU Linz](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/). I also [worked on simplifying access to state-of-the-art Deep Learning](https://h2o.ai/platform/h2o-hydrogen-torch/) as Data Science Intern at H2O.ai and [worked on Transformers](https://aclanthology.org/2021.findings-acl.26/) as ML Research Intern at Huawei.
 
 I am especially interested in everything NLP and in Rust as a language for writing fast, correct code.
 
